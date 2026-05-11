@@ -1234,7 +1234,7 @@ Prevents this hack from preventing the game from redundantly presenting (present
 ## -noblockredundantreset
 **Added in Version 1.23.**
 
-Makes it so this hack does NOT block the game from resetting it Direct3D device when it's unnecessary.
+Makes it so this hack does NOT block the game from resetting its Direct3D device when it's unnecessary.
 
 ```text
 -noblockredundantreset
@@ -1684,7 +1684,7 @@ Disables a fix added in Version 1.26 that addresses an issue in the original gam
 ## -noproperclientareacursorcentringandclipping
 **Added in Version 1.26.1.**
 
-Disables fixes for an issue where the game incorrectly centered the cursor to the window instead of it's client area *and* an issue where the game assumes the non-client area was 30 pixels at the top and 10 pixels at the other edges when clipping the cursor.
+Disables fixes for an issue where the game incorrectly centered the cursor to the window instead of its client area *and* an issue where the game assumes the non-client area was 30 pixels at the top and 10 pixels at the other edges when clipping the cursor.
 
 ```text
 -noproperclientareacursorcentringandclipping
