@@ -64,7 +64,7 @@ This page lists transcriptions of all of Patty Bouvier's dialogue in The Simpson
 | conversations/c_success_1_convinit_pat_l2r1.rsd  | Good work, Bart. Next time you stay at our place, you can have the steamed vegetable of your choice.                                                |
 | conversations/c_success_1_convinit_pat_l2r2.rsd  | Attaboy, Bart. You're getting a birthday present this year.                                                                                         |
 | conversations/c_success_1_convinit_pat_l2r3.rsd  | Not terrible.                                                                                                                                       |
-| conversations/c_success_1_convinit_pat_l3r1.rsd  | Atta girl, Lisa. This will be noted on your permanent record.                                                                                       |
+| conversations/c_success_1_convinit_pat_l3r1.rsd  | Attagirl, Lisa. This will be noted on your permanent record.                                                                                       |
 | conversations/c_success_1_convinit_pat_l3r2.rsd  | I'm speechless, Lisa. That was better than you have any right to do.                                                                                |
 | conversations/c_success_1_convinit_pat_l3r3.rsd  | She must get her driving ability from her mother's side.                                                                                            |
 | conversations/c_success_1_convinit_pat_l4r1.rsd  | I wish I could be happy for your success, but I can't.                                                                                              |
