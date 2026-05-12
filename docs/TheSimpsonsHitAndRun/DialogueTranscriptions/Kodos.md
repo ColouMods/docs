@@ -16,7 +16,7 @@ This page lists transcriptions of all of Kodos's dialogue in The Simpsons: Hit &
 | c_pubcredits_5_noboxconv_kod.rsd  | If you ask me, these humans spent too much time exchanging long protein strands with one another. |
 | c_raddesign_2_noboxconv_kod.rsd   | Indeed, I met smarter people in the drunk tank.                                                   |
 | c_radfeart_2_noboxconv_kod.rsd    | Oh, stop it. You're as thin as the day I birthed you.                                             |
-| c_radfx_1_noboxconv_kod.rsd       | I've blown better special effects out of my smell hole.                                           |
+| c_radfx_1_noboxconv_kod.rsd       | Hmph! I've blown better special effects out of my smell hole!                                     |
 | c_radlead_1_noboxconv_kod.rsd     | I really have no idea what these people did.                                                      |
 | c_radlead_3_noboxconv_kod.rsd     | Ha! She wouldn't give you ten seconds.                                                            |
 | c_radproducer_2_noboxconv_kod.rsd | He'll never know his workers have been slowly poisoning him.                                      |

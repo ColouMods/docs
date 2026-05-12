@@ -32,7 +32,7 @@ This page lists transcriptions of all of the Sea Captain's dialogue in The Simps
 | sea_captain/p_nhitbyc_sea_01.rsd         | Yarr, the trade winds have pushed you off course a little bit.                                                                   |
 | sea_captain/p_nhitbyc_sea_02.rsd         | Thar she blows!                                                                                                                  |
 | sea_captain/p_nhitbyc_sea_03.rsd         | Call me PO'd!                                                                                                                    |
-| sea_captain/p_nhitbyc_sea_pirates.rsd    | I hope you get Scrimshaw'd a ticket.                                                                                             |
+| sea_captain/p_nhitbyc_sea_pirates.rsd    | I hope you get scrimshaw'd a ticket.                                                                                             |
 | sea_captain/p_nhitbyc_sea_revenge.rsd    | Arr! Revenge I'll have, says I.                                                                                                  |
 | sea_captain/w_idlereply_sea_alone.rsd    | Yarr, weather such as this reminds me of my Scarsdale boyhood.                                                                   |
 | sea_captain/w_idlereply_sea_body.rsd     | Yarr, I've got to pick up me daughter. Visiting rights, this weekend I have, I do. The planetarium we'll go to, we will.         |

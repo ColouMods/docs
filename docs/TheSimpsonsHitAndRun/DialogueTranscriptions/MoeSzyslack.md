@@ -7,14 +7,14 @@ authors: [ 2116 ]
 This page lists transcriptions of all of Moe Szyslak's dialogue in The Simpsons: Hit & Run.
 
 # conversations Folder
-| File                                             | Transcription                                                                 |
-|--------------------------------------------------|-------------------------------------------------------------------------------|
-| conversations/c_chainsaw_2_convinit_moe_l7m1.rsd | But then how will I defend myself?                                            |
-| conversations/c_chainsaw_4_convinit_moe_l7m1.rsd | Yeah, I guess so.                                                             |
-| conversations/c_chainsaw_6_convinit_moe_l7m1.rsd | Well, better go comb my hair before the zombies get here. Ah, my life stinks. |
-| conversations/c_goat_2_convinit_moe_l2b1.rsd     | Nah, what about goat blood?                                                   |
-| conversations/c_minor_1_convinit_moe_l2m2.rsd    | Sorry, Bart. I can't serve booze to a minor, it ain't right.                  |
-| conversations/c_minor_3_convinit_moe_l2m2.rsd    | Oh hell yeah, heh.                                                            |
+| File                                             | Transcription                                                                   |
+|--------------------------------------------------|---------------------------------------------------------------------------------|
+| conversations/c_chainsaw_2_convinit_moe_l7m1.rsd | But then how will I defend myself?                                              |
+| conversations/c_chainsaw_4_convinit_moe_l7m1.rsd | *sigh* Yeah, I guess so.                                                        |
+| conversations/c_chainsaw_6_convinit_moe_l7m1.rsd | Welp, better go comb my hair before the zombies get here. Haah, my life stinks. |
+| conversations/c_goat_2_convinit_moe_l2b1.rsd     | Nah, what about goat blood?                                                     |
+| conversations/c_minor_1_convinit_moe_l2m2.rsd    | Sorry, Bart. I can't serve booze to a minor, it ain't right.                    |
+| conversations/c_minor_3_convinit_moe_l2m2.rsd    | Oh hell yeah, heh.                                                              |
 
 # moe Folder
 | File                              | Transcription                                                                                                                      |
