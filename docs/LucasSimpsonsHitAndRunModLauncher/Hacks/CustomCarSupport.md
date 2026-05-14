@@ -1,7 +1,7 @@
 ---
 title: "Custom Car Support"
 description: "This hack adds support for registering custom cars and adjusting parameters on existing ones."
-authors: [ 2 ]
+authors: [ 2, 4554 ]
 initialVersion:
   project_id: 6 # Lucas' Simpsons Hit & Run Mod Launcher
   projectBranch_id: 46 # Main
@@ -81,6 +81,7 @@ NoBumperCam=0
 ; 	Sets the husk for this car.
 ; 	The target car should have IsHusk set to 1!
 ; 	Defaults to huskA.
+;   Note: The husk specified must already be loaded in memory, otherwise the game will default to no husk at all!
 Husk=huskA
 
 ; IsHusk
