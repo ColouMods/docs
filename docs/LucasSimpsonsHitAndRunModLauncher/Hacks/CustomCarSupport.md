@@ -81,6 +81,7 @@ NoBumperCam=0
 ; 	Sets the husk for this car.
 ; 	The target car should have IsHusk set to 1!
 ; 	Defaults to huskA.
+;   Note: The husk specified must already be loaded in memory, otherwise the game will default to no husk at all!
 Husk=huskA
 
 ; IsHusk
