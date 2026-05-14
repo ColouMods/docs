@@ -1,7 +1,7 @@
 ---
 title: "Custom Car Support"
 description: "This hack adds support for registering custom cars and adjusting parameters on existing ones."
-authors: [ 2 ]
+authors: [ 2, 4554 ]
 initialVersion:
   project_id: 6 # Lucas' Simpsons Hit & Run Mod Launcher
   projectBranch_id: 46 # Main
