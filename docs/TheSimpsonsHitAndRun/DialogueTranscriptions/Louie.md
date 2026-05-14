@@ -1,10 +1,16 @@
 ---
 title: "Louie"
 description: "This page has transcriptions of Louie's dialogue from The Simpsons: Hit & Run."
-authors: [ 104 ]
+authors: [ 104, 2116 ]
 ---
 
 This page has transcriptions of Louie's dialogue.
+
+# conversations Folder
+| File                                            | Transcription                                                                                                                                                                                             |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| conversations/c_italian_2_convinit_lou_l5m2.rsd | We don't know nuttin'. Except that the vans are controlled by mysterious strangers. Anyway, you shouldn't stick your nose in other people's business! It could come back to haunt you! And your family... |
+
 
 # louie Folder
 | File                            | Transcription                                             | Notes                      |
