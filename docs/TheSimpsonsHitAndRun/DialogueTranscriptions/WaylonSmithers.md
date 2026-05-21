@@ -12,7 +12,7 @@ This page lists transcriptions of all of Waylon Smithers's dialogue in The Simps
 | conversations/c_convertible_1_noboxconv_smi_l1m3.rsd | Ugh, my convertible! I just waxed and undercoated...                                                                                            |
 | conversations/c_errands_2_convinit_smi_l7.rsd        | Not now, Simpson, Mr. Burns wants me to run some errands. But I have a brunch date. You know how it is.                                         |
 | conversations/c_garters_2_convinit_smi_l7b1.rsd      | Oh, thank God! His socks have been pooling around his ankles for days. And this is his favorite brand, Alan Quartermain's Keep'em Ups.          |
-| conversations/c_muscles_2_convinit_smi_l7b1.rsd      | Uh, Mr. Burns likes to vo-do-de-oh-ercize every morning. It keeps his muscles from falling off the bone.                                        |
+| conversations/c_muscles_2_convinit_smi_l7b1.rsd      | Uh, Mr. Burns likes to vododeocercize every morning. It keeps his muscles from falling off the bone.                                            |
 | conversations/c_tooth_2_convinit_smi_l7b1.rsd        | Thanks, Simpson. Mr. Burns doesn't... have teeth anymore, but it makes him feel young when I rub this on his gums. The things we do for love... |
 
 # smithers Folder
